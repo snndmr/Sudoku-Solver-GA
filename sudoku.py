@@ -1,4 +1,4 @@
-# Sudoku Solver with GA | Sinan Demir - 16050111046
+# Sudoku Solver with GA | Sinan Demir
 
 import random
 import numpy as np
