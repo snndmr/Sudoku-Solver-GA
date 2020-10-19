@@ -1,5 +1,5 @@
 # Sudoku Solver GA
  
 
- asd
-
+ 
+ cbf
