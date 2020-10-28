@@ -1,5 +1,3 @@
-# Sudoku Solver GA
+# Sudoku Solver with Genetic Algorithm
  
-
- 
- cbf
+![example_run](pic/example_run.png)
